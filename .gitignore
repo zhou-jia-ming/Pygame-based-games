@@ -136,3 +136,6 @@ dmypy.json
 
 # pycharm stuff
 .idea/
+
+# game record file
+record.db

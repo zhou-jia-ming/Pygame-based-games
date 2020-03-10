@@ -1,2 +1,2 @@
 # my_game
-Some game write in python.
+Games written in python
